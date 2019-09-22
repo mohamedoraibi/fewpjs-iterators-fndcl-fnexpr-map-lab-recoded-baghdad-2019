@@ -10,6 +10,10 @@ const tutorials = [
   'what is the difference between event capturing and bubbling?',
   'what is JSONP?'
 ];
+ rollCall = students.map(function(student) {
+  return student + " the wizard";
+});
+
 
 tutorials=tutorials.map
 const titleCased = () => {
