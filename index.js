@@ -24,9 +24,8 @@ tutorials = tutorials.map(function(tutorials) {
       newTut += newTutarraySpace[i] + " ";
     }
   }
-  return (tutorials = DOMQuad);
+  return tutorials = newTut;
 });
-
 tutorials=tutorials.map
 const titleCased = () => {
   return tutorials
